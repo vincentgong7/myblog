@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.gong.im/about/</loc>
+    <lastmod>2020-07-31T18:16:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/posts/my_phd/</loc>
+    <lastmod>2020-07-31T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/posts/</loc>
+    <lastmod>2020-07-31T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/</loc>
+    <lastmod>2020-07-31T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/posts/first_post/</loc>
+    <lastmod>2020-07-30T21:51:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/tags/</loc>
+  </url>
+  
+</urlset>

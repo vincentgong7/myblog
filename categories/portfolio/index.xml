@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio - </title>
+    <link>https://blog.gong.im/categories/portfolio/</link>
+    <description>Recent content in Portfolio on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jul 2020 14:09:06 +0200</lastBuildDate>
+    
+        <atom:link href="https://blog.gong.im/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Darknet VG_AlexaYolo</title>
+      <link>https://blog.gong.im/posts/portfolio/darknet/</link>
+      <pubDate>Fri, 10 Jul 2020 14:09:06 +0200</pubDate>
+      
+      <guid>https://blog.gong.im/posts/portfolio/darknet/</guid>
+      <description>Cum tuisque Emathion fatis et meorum In adamanta quisquis findit Lorem markdownum messoris spectasse altera secutum vulnere o in quod platanus nomina.</description>
+    </item>
+  </channel>
+</rss>

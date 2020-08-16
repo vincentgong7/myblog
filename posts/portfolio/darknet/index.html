@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Darknet VG_AlexaYolo &middot; </title>
-  <meta name="description" content="" />
+  <title>Detecting Objects on Multiple Images using You Only Look Once (Yolo) &middot; </title>
+  <meta name="description" content="Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community." />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   
@@ -58,63 +58,30 @@ if (!doNotTrack) {
     <main class="content side-text-padding">
       <article class="post dropcase">
         <header class="post-header">
-          <h1 class="post-title">Darknet VG_AlexaYolo</h1>
+          <h1 class="post-title">Detecting Objects on Multiple Images using You Only Look Once (Yolo)</h1>
           <p class="post-date">Posted <time datetime="2020-07-10">Jul 10, 2020</time></p>
         </header>
         <picture class="post-figure">
           
           
           <source srcset="https://blog.gong.im/posts/portfolio/darknet/darknet_hu86e5f82eb67f5ab1e6b55f6e4110165b_71314_800x0_resize_q75_lanczos.jpg">
-          <img src="https://blog.gong.im/posts/portfolio/darknet/darknet_hu86e5f82eb67f5ab1e6b55f6e4110165b_71314_800x0_resize_q75_lanczos.jpg" alt="Lorem markdownum currus; qui finis Cecrope concolor caput. Terram *nemus sonum* ceu ponti, est supra et rogata circumfunditur qui: satis!">
+          <img src="https://blog.gong.im/posts/portfolio/darknet/darknet_hu86e5f82eb67f5ab1e6b55f6e4110165b_71314_800x0_resize_q75_lanczos.jpg" >
         </picture>
         <h2>Contents</h2>
           <nav id="TableOfContents">
   <ul>
-    <li><a href="#in-adamanta-quisquis-findit">In adamanta quisquis findit</a></li>
-    <li><a href="#odissem-atque-passa-succurrere-dubiam-non-sagittis">Odissem Atque passa succurrere dubiam non sagittis</a></li>
-    <li><a href="#leves-cilix-feres-annorum-laudemque-aeginam-tinnitibus">Leves Cilix feres annorum laudemque Aeginam tinnitibus</a></li>
-    <li><a href="#et-mihi-differt-hectora-vultus">Et mihi differt Hectora vultus</a></li>
+    <li><a href="#background">Background</a></li>
+    <li><a href="#fun">Fun</a></li>
   </ul>
 </nav>
-        <h1 id="cum-tuisque-emathion-fatis-et-meorum">Cum tuisque Emathion fatis et meorum</h1>
-<h2 id="in-adamanta-quisquis-findit">In adamanta quisquis findit</h2>
-<p>Lorem markdownum messoris spectasse altera secutum vulnere o in quod <a href="http://venimusnisi.io/">platanus
-nomina</a>. Damno <strong>inmeriti</strong> quidem, Stygiis orbem
-secedit veniensque, manere, <a href="http://plagae.io/aureus">te</a> sidereis vel ibi
-ardua, ut. Magno patet pressoque pede iam regis esse per aera <strong>nebulasque
-annos</strong>. Est dixit sonum verum ripae inmedicabile colla <em>exululatque causa</em>;
-alter?</p>
-<h2 id="odissem-atque-passa-succurrere-dubiam-non-sagittis">Odissem Atque passa succurrere dubiam non sagittis</h2>
-<p>Colophonius ante latissima fere scisset. Alma fuga trahunt habitabat ut auras
-verbisque, labore patrem quicquid dumque volucres voveam. Est suis; honore
-visaque, vidi, ait omnis taedae sordidus quia. Et reseret actorum vineta se
-dedit aliquid iniusta. <a href="http://quo.io/tuoiterum">Ego cunctis</a>!</p>
-<blockquote>
-<p>Peleus terra; inmotosque est et erunt! Senex satis viridis sex et minimo
-noceat virgineum sparsae, Di motibus intrat ramis retro: est, deo torta. Est
-fuit modo est diversi homini amore. Peperisse summo <em>et hactenus quod</em>
-quandoquidem annis ista, tuam quam tanges in potest quicquid
-<a href="http://ennomon.com/abstulit">et</a>.</p>
-</blockquote>
-<h2 id="leves-cilix-feres-annorum-laudemque-aeginam-tinnitibus">Leves Cilix feres annorum laudemque Aeginam tinnitibus</h2>
-<p>Quid tumulos. Aut manus gramina cum quod dixerat. Auctor parvos, pedem Venus
-quisquis et faber! Loca isdem lumina fundamina victa capacibus dedisse loquentis
-senis numine non palmite Bacchum conrepta veluti nitidaque Troiana flumine.
-Legit tulere a subiecit domito tuam, <strong>illo miles</strong> quas vultum habuit, preces:
-limina haec: quid.</p>
-<h2 id="et-mihi-differt-hectora-vultus">Et mihi differt Hectora vultus</h2>
-<p><strong>Est in cutis</strong> diroque potentia sacra adspicit casusve: Bubasides ut. Sunt
-Minos, altaria; dryadas ni omnia pretiumque et cornu posse, carbasa sagitta.</p>
-<blockquote>
-<p><em>Aevumque subeunt tum</em> sine illis. Quotiens quem. Properant ultima tetigisse
-ipsa alios involvitur quisquis fuga sed <a href="http://nonlege.net/erat">operis</a>
-Invidiae puellari. Omnia quondam attonitas esse ego ligatis cursuque spreto
-vultum est mihi et ossa.</p>
-</blockquote>
-<p>Vel medii erunt; viri retenta <strong>pascua recessu</strong> revertentes naris scite ire
-vinci <strong>incomptis</strong> Cinyras dixit sic patiar. Ait dis prospectat, arces ille
-mixta luctataque Theseus vivit oraque? In est <strong>tamen</strong> non moriens gramen
-inhaeserat <em>prioris mihi</em>, nec ira miserata offensane.</p>
+        <h2 id="background">Background</h2>
+<p>When I started to perform my fourth studies in 2018, i.e. counting people in the Instagram images, I found the popular object detection program Yolo, which is short for a cool name &ldquo;You only look once&rdquo;. I was excited by this name and also at the moment when I made it running. However, I found either the original version or the widely used spin-off (AlexeyAB) of the Yolo only support object detection from one image per time. This leads to incredible inconvenience in my study, as I need to detect people in thousands of social media images.</p>
+<p>After exploring this problem in the Yolo community, I realised I&rsquo;m not the only one with this problem. Detecting objects in multiple images is necessary but not yet implemented in Yolo.</p>
+<p>At the end of that day, I decided to do something for this community, i.e. improving Yolo by adding the batch image detecting function. Immediately I started reading code in the next sunny afternoon and then designing functions. The first released version supports detecting objects in multiple images located in a folder. According to the requirements from the community, I continue adding new features. In the most recent releasing, it supports exporting information of detected objects, such as name and bounding box, in either text and JSON format.</p>
+<p>For more detail, please visit the website for this project. Like it? Give it a star on Github.</p>
+<p><!-- raw HTML omitted --><strong><a href="https://darknet.gong.im">https://darknet.gong.im</a></strong><!-- raw HTML omitted --></p>
+<h2 id="fun">Fun</h2>
+<p>It was fun for me when doing this project. Since I left my first job ten years ago, I haven&rsquo;t performed any C programming. Though I&rsquo;m not bad with programming in C, I don&rsquo;t like it that much. I can bear with it but won&rsquo;t do it as a job. I can still remember the moment I quit my first job (team) I thought that was the last day in my life to programming in C. Too naive obviously, I did not expect after ten years I still have to do some C programming, though it is not that intensive. I was even writing C with music and recalled all the funny stories from my first job. It was nice.</p>
 
       </article>
       <div id="disqus_thread"></div>
@@ -148,13 +115,13 @@ inhaeserat <em>prioris mihi</em>, nec ira miserata offensane.</p>
     <picture>
       
       <source srcset="https://blog.gong.im/posts/blog/my_phd/delft_0.jpg">
-      <img src="https://blog.gong.im/posts/blog/my_phd/delft_0.jpg" class="card-img" alt="Lorem markdownum currus; qui finis Cecrope concolor caput. Terram *nemus sonum* ceu ponti, est supra et rogata circumfunditur qui: satis!">
+      <img src="https://blog.gong.im/posts/blog/my_phd/delft_0.jpg" class="card-img" >
     </picture>
   </div>
   
   <article class="card-body">
     <h2 class="card-title">My_phd</h2>
-    <p class="card-text">Hanc hac Rhoetus moves Denique pluma nec iterum Aesacon laudaverit Lorem markdownum currus; qui finis Cecrope concolor caput.</p>
+    <p class="card-text">222Lorem markdownum currus; qui finis Cecrope concolor caput. Terram *nemus sonum* ceu ponti, est supra et rogata circumfunditur qui: satis!</p>
     <div class="card-subtext muted-text">
       <p>Posted <time datetime="2020-07-10 710:00">Jul 10, 2020</time></p>
       <p>#Blog </p>

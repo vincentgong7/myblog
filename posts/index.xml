@@ -5,31 +5,24 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2020 21:51:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 14:09:06 +0200</lastBuildDate>
     
         <atom:link href="https://blog.gong.im/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First_post</title>
-      <link>https://blog.gong.im/posts/blog/first_post/</link>
-      <pubDate>Thu, 30 Jul 2020 21:51:26 +0200</pubDate>
-      
-      <guid>https://blog.gong.im/posts/blog/first_post/</guid>
-      <description>Erat erepta est expertus Pennis satis aspicit Eurystheus diruta aperire canitiemque Lorem markdownum eram.</description>
-    </item><item>
-      <title>Darknet VG_AlexaYolo</title>
+      <title>Detecting Objects on Multiple Images using You Only Look Once (Yolo)</title>
       <link>https://blog.gong.im/posts/portfolio/darknet/</link>
       <pubDate>Fri, 10 Jul 2020 14:09:06 +0200</pubDate>
       
       <guid>https://blog.gong.im/posts/portfolio/darknet/</guid>
-      <description>Cum tuisque Emathion fatis et meorum In adamanta quisquis findit Lorem markdownum messoris spectasse altera secutum vulnere o in quod platanus nomina.</description>
+      <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
     </item><item>
       <title>My_phd</title>
       <link>https://blog.gong.im/posts/blog/my_phd/</link>
       <pubDate>Fri, 10 Jul 2020 14:09:06 +0200</pubDate>
       
       <guid>https://blog.gong.im/posts/blog/my_phd/</guid>
-      <description>Hanc hac Rhoetus moves Denique pluma nec iterum Aesacon laudaverit Lorem markdownum currus; qui finis Cecrope concolor caput.</description>
+      <description>222Lorem markdownum currus; qui finis Cecrope concolor caput. Terram *nemus sonum* ceu ponti, est supra et rogata circumfunditur qui: satis!</description>
     </item>
   </channel>
 </rss>

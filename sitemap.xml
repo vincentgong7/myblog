@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.gong.im/</loc>
+    <lastmod>2020-08-16T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/categories/</loc>
+    <lastmod>2020-08-16T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/categories/portfolio/</loc>
+    <lastmod>2020-08-16T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/posts/</loc>
+    <lastmod>2020-08-16T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/posts/portfolio/trail_latex/</loc>
+    <lastmod>2020-08-16T14:09:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.gong.im/about/</loc>
     <lastmod>2020-07-31T18:16:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.gong.im/</loc>
-    <lastmod>2020-07-10T14:09:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.gong.im/categories/blog/</loc>
-    <lastmod>2020-07-10T14:09:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.gong.im/categories/</loc>
     <lastmod>2020-07-10T14:09:06+02:00</lastmod>
   </url>
   
@@ -29,16 +44,6 @@
   
   <url>
     <loc>https://blog.gong.im/posts/blog/my_phd/</loc>
-    <lastmod>2020-07-10T14:09:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.gong.im/categories/portfolio/</loc>
-    <lastmod>2020-07-10T14:09:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.gong.im/posts/</loc>
     <lastmod>2020-07-10T14:09:06+02:00</lastmod>
   </url>
   

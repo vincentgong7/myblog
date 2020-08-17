@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts - </title>
+    <title>Posts - VG Homepage</title>
     <link>https://blog.gong.im/posts/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on VG Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 18:49:06 +0200</lastBuildDate>
@@ -31,7 +31,7 @@
       <guid>https://blog.gong.im/posts/portfolio/darknet/</guid>
       <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
     </item><item>
-      <title>Invitation to My (online) PhD Defence</title>
+      <title>Invitation to My PhD Defence</title>
       <link>https://blog.gong.im/posts/blog/phd_defence/</link>
       <pubDate>Sat, 20 Jun 2020 21:51:26 +0200</pubDate>
       

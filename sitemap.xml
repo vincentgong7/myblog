@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.gong.im/</loc>
-    <lastmod>2020-08-17T18:49:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.gong.im/categories/blog/</loc>
     <lastmod>2020-08-17T18:49:06+02:00</lastmod>
   </url>
@@ -24,6 +19,11 @@
   
   <url>
     <loc>https://blog.gong.im/posts/</loc>
+    <lastmod>2020-08-17T18:49:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.gong.im/</loc>
     <lastmod>2020-08-17T18:49:06+02:00</lastmod>
   </url>
   

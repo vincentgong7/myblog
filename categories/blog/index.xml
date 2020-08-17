@@ -10,12 +10,19 @@
         <atom:link href="https://blog.gong.im/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Delft after rain</title>
+      <title>Delft After Rain</title>
       <link>https://blog.gong.im/posts/blog/delft_after_rain/</link>
       <pubDate>Mon, 17 Aug 2020 18:49:06 +0200</pubDate>
       
       <guid>https://blog.gong.im/posts/blog/delft_after_rain/</guid>
       <description>It was so beautiful the city of Delft after a rain in a nice summer afternoon. I attached some pictures taken on the way to the city centre.</description>
+    </item><item>
+      <title>Invitation to My (online) PhD Defence</title>
+      <link>https://blog.gong.im/posts/blog/phd_defence/</link>
+      <pubDate>Sat, 20 Jun 2020 21:51:26 +0200</pubDate>
+      
+      <guid>https://blog.gong.im/posts/blog/phd_defence/</guid>
+      <description>You are cordially invited to the public online defence of my PhD dissertation, which will be held on Monday, Sep 21st, 2020 at 15:00 Amsterdam time (CET). The dissertation is entitled: Using Social Media to Characterise Crowds in City Events for Crowd Management.</description>
     </item>
   </channel>
 </rss>

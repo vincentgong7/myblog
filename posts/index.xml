@@ -10,7 +10,7 @@
         <atom:link href="https://blog.gong.im/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Delft after rain</title>
+      <title>Delft After Rain</title>
       <link>https://blog.gong.im/posts/blog/delft_after_rain/</link>
       <pubDate>Mon, 17 Aug 2020 18:49:06 +0200</pubDate>
       
@@ -30,6 +30,13 @@
       
       <guid>https://blog.gong.im/posts/portfolio/darknet/</guid>
       <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
+    </item><item>
+      <title>Invitation to My (online) PhD Defence</title>
+      <link>https://blog.gong.im/posts/blog/phd_defence/</link>
+      <pubDate>Sat, 20 Jun 2020 21:51:26 +0200</pubDate>
+      
+      <guid>https://blog.gong.im/posts/blog/phd_defence/</guid>
+      <description>You are cordially invited to the public online defence of my PhD dissertation, which will be held on Monday, Sep 21st, 2020 at 15:00 Amsterdam time (CET). The dissertation is entitled: Using Social Media to Characterise Crowds in City Events for Crowd Management.</description>
     </item>
   </channel>
 </rss>

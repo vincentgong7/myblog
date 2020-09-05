@@ -1,28 +1,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog - VG Homepage</title>
-    <link>https://blog.gong.im/categories/blog/</link>
+    <link>http://localhost:1313/categories/blog/</link>
     <description>Recent content in Blog on VG Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 18:49:06 +0200</lastBuildDate>
     
-        <atom:link href="https://blog.gong.im/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Delft After Rain</title>
-      <link>https://blog.gong.im/posts/blog/delft_after_rain/</link>
+      <link>http://localhost:1313/posts/blog/delft_after_rain/</link>
       <pubDate>Mon, 17 Aug 2020 18:49:06 +0200</pubDate>
       
-      <guid>https://blog.gong.im/posts/blog/delft_after_rain/</guid>
+      <guid>http://localhost:1313/posts/blog/delft_after_rain/</guid>
       <description>It was so beautiful the city of Delft after a rain in a nice summer afternoon. I attached some pictures taken on the way to the city centre.</description>
     </item><item>
+      <title>First_post</title>
+      <link>http://localhost:1313/posts/blog/first_post/</link>
+      <pubDate>Thu, 30 Jul 2020 21:51:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog/first_post/</guid>
+      <description>111 Lorem markdownum eram. Factum ut invidiae utrumque non aves ab quoque coepta nisi causa haurit aure, anxius. In ultima accedere Apollineae aequalis silvi studiisque rite, ubi concolor argumentum dignus. Illa lacrimosa scilicet rursus.</description>
+    </item><item>
       <title>Invitation to My PhD Defence</title>
-      <link>https://blog.gong.im/posts/blog/phd_defence/</link>
+      <link>http://localhost:1313/posts/blog/phd_defence/</link>
       <pubDate>Sat, 20 Jun 2020 21:51:26 +0200</pubDate>
       
-      <guid>https://blog.gong.im/posts/blog/phd_defence/</guid>
-      <description>You are cordially invited to the public online defence of my PhD dissertation, which will be held on Monday, Sep 21st, 2020 at 15:00 Amsterdam time (CET). The dissertation is entitled: Using Social Media to Characterise Crowds in City Events for Crowd Management.</description>
+      <guid>http://localhost:1313/posts/blog/phd_defence/</guid>
+      <description>You are cordially invited to the public online defence of my PhD dissertation, which will be held on Monday, Sep 21st, 2020 at 14:30 Amsterdam time (CET). The dissertation is entitled: Using Social Media to Characterise Crowds in City Events for Crowd Management.</description>
     </item>
   </channel>
 </rss>

@@ -23,20 +23,6 @@
       
       <guid>https://blog.gong.im/posts/portfolio/darknet/</guid>
       <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
-    </item><item>
-      <title>Detecting Objects on Multiple Images using You Only Look Once (Yolo)</title>
-      <link>https://blog.gong.im/posts/portfolio/funda/</link>
-      <pubDate>Fri, 10 Jul 2020 14:09:06 +0200</pubDate>
-      
-      <guid>https://blog.gong.im/posts/portfolio/funda/</guid>
-      <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
-    </item><item>
-      <title>Detecting Objects on Multiple Images using You Only Look Once (Yolo)</title>
-      <link>https://blog.gong.im/posts/portfolio/sma/</link>
-      <pubDate>Fri, 10 Jul 2020 14:09:06 +0200</pubDate>
-      
-      <guid>https://blog.gong.im/posts/portfolio/sma/</guid>
-      <description>Object detection is a common machine learning task. One of the widely used object detection tool is *You Only Look Once (Yolo)*, which is implemented based on the Darknet, an Open Source Neural Networks in C. In this project, I improved the YOLO by adding several convenient functions for detecting objects for research and the development community.</description>
     </item>
   </channel>
 </rss>
